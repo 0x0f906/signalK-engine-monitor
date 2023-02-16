@@ -7,7 +7,7 @@ This project connects to a SignalK server via WiFi and does not send NEMA-2000 d
 <ul>
   <li>03 Temperature sensors
     <ul>
-      <li>engine</li>
+      <li>oil</li>
       <li>coolant</li>
       <li>exhaust</li>
     </ul>
