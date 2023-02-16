@@ -1,5 +1,5 @@
 <h1>signalK-engine-monitor</h1>
-<p>SignalK engine monitor utlizing a SH-ESP32 with the code being mostly based off examples provided by <a href="https://github.com/hatlabs">@hatlabs</a>.</p>
+<p>SignalK engine monitor utilizing a SH-ESP32 with the code being mostly based off examples provided by <a href="https://github.com/hatlabs">@hatlabs</a>.</p>
 <p><strong>Working:</strong> 
 <ul>
   <li>03 Temperature sensors
