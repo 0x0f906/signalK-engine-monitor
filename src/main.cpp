@@ -86,7 +86,7 @@ void setup()
     sensesp_app = builder.set_hostname("signalK-engine-monitor")
                       ->enable_uptime_sensor()
                       ->enable_system_info_sensors()
-                      ->set_sk_server("192.168.88.3", 3000)
+                      ->set_sk_server("sk_server_ip", 3000)
                       ->get_app();
 
     DallasTemperatureSensors *dts = new DallasTemperatureSensors(ONEWIRE_PIN);
