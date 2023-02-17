@@ -1,4 +1,4 @@
-<h1>signalK-engine-monitor</h1>
+<h1>signalk-engine-monitor</h1>
 <p>SignalK engine monitor utilizing a SH-ESP32 with the code being mostly based off examples provided by <a href="https://github.com/hatlabs">@hatlabs</a>.</p>
 
 This project connects to a SignalK server via WiFi and does not send NEMA-2000 data over a NEMA backbone. 
